@@ -30,6 +30,9 @@ Memoizing components to prevent unnecessary re-renders
 ## Demo
 
 https://user-images.githubusercontent.com/112751010/226165383-240caa88-8685-4d80-bbee-8abe38eff79f.mp4
+
+https://user-images.githubusercontent.com/112751010/226165934-27078596-aa19-43bd-a2fd-2211e86abb0d.mp4
+
 https://user-images.githubusercontent.com/112751010/226165338-55cccd97-368d-41a7-ad77-5a61baf296c0.mp4
 
 
